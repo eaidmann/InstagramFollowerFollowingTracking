@@ -50,6 +50,9 @@ For the following HTML file data, look for "connections\followers_and_following\
 - The video explains how to retrieve DM data, but you can modify the steps to download follower/following data instead.
 - The other steps are the same.
 
+2. Tutorial on how to use the tool.
+- Youtube Link : https://youtu.be/GuYz_9dYnpk
+
 ## How to Use ?
 1. Go to "dist" folder and run the "main.exe" file to open the application.
 2. After the application is opened. First, click the "Import" button to import your Original Follower Data Path.
