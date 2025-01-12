@@ -10,6 +10,7 @@ NOTE : PLEASE USE THIS AT YOUR OWN RISK.
 ## Table of Contents
 - [Pre-Requisites](#pre-requisites)
 - [Information Data File](#Information-Data-File)
+- [Tutorial Video](#Tutorial-Video)
 - [How to Use ?](#How-to-Use-?)
 - [Output File](#Output-File)
 
@@ -41,6 +42,13 @@ After you have downloaded the compressed information data file, you need to extr
 Inside the information data file, you can find the follower HTML file in the directory "connections\followers_and_following\followers_1.html".
 
 For the following HTML file data, look for "connections\followers_and_following\following.html".
+
+## Tutorial Video
+1. How to download Instagram Information Data File.
+- Youtube Link : https://www.youtube.com/watch?v=8xTpM4jpCNk
+- All credits go to the video owner.
+- The video explains how to retrieve DM data, but you can modify the steps to download follower/following data instead.
+- The other steps are the same.
 
 ## How to Use ?
 1. Go to "dist" folder and run the "main.exe" file to open the application.
