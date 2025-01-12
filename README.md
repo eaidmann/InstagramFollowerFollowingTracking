@@ -1,5 +1,5 @@
 # Instagram Follower/Following Tracking
-This tool allows the user to track their current followers or following list of their Instagram account.
+This tool allows the user to track their current followers or following list on their Instagram account by comparing it with the previous follower/following list.
 
 The tool uses downloaded Instagram information from the owner's account without requiring any login credentials inside the code.
 
