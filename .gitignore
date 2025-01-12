@@ -1,0 +1,14 @@
+# ignore assets folder
+assets
+
+# ignore Output
+Output/
+
+# ignore todo.txt
+todo.txt
+
+# ignore Planning folder
+Planning
+
+# ignore environment folder
+env
