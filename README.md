@@ -15,7 +15,7 @@ NOTE : PLEASE USE THIS AT YOUR OWN RISK.
 
 
 ## Pre-Requisites
-The user of this code needs to download their Instagram follower/following list beforehand from their own Instagram account. The following example is based on the Android Instagram application:
+The user of this tool needs to download their Instagram follower/following list beforehand from their own Instagram account. The following example is based on the Android Instagram application:
 
 1. Open your Instagram account.
 2. Go to Settings and then Activity.
