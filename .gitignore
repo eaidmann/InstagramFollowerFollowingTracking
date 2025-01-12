@@ -12,3 +12,9 @@ Planning
 
 # ignore environment folder
 env
+
+# ignore handler folder 
+handler
+
+# ignore main.py
+main.py
